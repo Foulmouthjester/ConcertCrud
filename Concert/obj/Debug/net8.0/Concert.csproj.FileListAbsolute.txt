@@ -1,0 +1,14 @@
+C:\Users\jeste\source\repos\Concert\bin\Debug\net8.0\Concert.exe
+C:\Users\jeste\source\repos\Concert\bin\Debug\net8.0\Concert.deps.json
+C:\Users\jeste\source\repos\Concert\bin\Debug\net8.0\Concert.runtimeconfig.json
+C:\Users\jeste\source\repos\Concert\bin\Debug\net8.0\Concert.dll
+C:\Users\jeste\source\repos\Concert\bin\Debug\net8.0\Concert.pdb
+C:\Users\jeste\source\repos\Concert\obj\Debug\net8.0\Concert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeste\source\repos\Concert\obj\Debug\net8.0\Concert.AssemblyInfoInputs.cache
+C:\Users\jeste\source\repos\Concert\obj\Debug\net8.0\Concert.AssemblyInfo.cs
+C:\Users\jeste\source\repos\Concert\obj\Debug\net8.0\Concert.csproj.CoreCompileInputs.cache
+C:\Users\jeste\source\repos\Concert\obj\Debug\net8.0\Concert.dll
+C:\Users\jeste\source\repos\Concert\obj\Debug\net8.0\refint\Concert.dll
+C:\Users\jeste\source\repos\Concert\obj\Debug\net8.0\Concert.pdb
+C:\Users\jeste\source\repos\Concert\obj\Debug\net8.0\Concert.genruntimeconfig.cache
+C:\Users\jeste\source\repos\Concert\obj\Debug\net8.0\ref\Concert.dll
